@@ -1,5 +1,6 @@
+<!-- Banner Section -->
 <p align="center">
-<img src="https://i.ibb.co/3rT0m9K/a-digital-comparison-image-showcases-three-banner.png" alt="Semiconductor / Chip Style Banner" height="230"/>
+  <img src="assets/banner.png" alt="Semiconductor / Chip Style Banner" height="230"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Ayon Das</h1>
@@ -39,10 +40,10 @@ Semiconductor Physics | VLSI Design | Technical Documentation
 
 ## 🔧 Projects & Learning Path
 
-- **Learning Repository** — Documenting my ECE journey and academic notes.
+- **Learning Repository** — Documenting my ECE journey and academic notes.  
   Repo: [My-ECE-Journey](https://github.com/AyonDasMe/My-ECE-Journey)
   
-- **Personal Portfolio** — Building my professional presence on GitHub.
+- **Personal Portfolio** — Building my professional presence on GitHub.  
   *(Currently exploring Semiconductor Physics and VLSI. More technical projects coming soon!)*
 
 ---
@@ -74,6 +75,7 @@ Semiconductor Physics | VLSI Design | Technical Documentation
 <i>"Execution over Perfection."</i>
 </p>
 
+<!-- Footer -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=nightowl" alt="Footer"/>
 </p>
