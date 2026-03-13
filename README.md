@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ayon%20Das&fontSize=70&animation=fadeIn&desc=ECE%20Undergraduate%20%7C%20KUET&descAlignY=72&fontColor=FFFFFF&stroke=000000&strokeWidth=1&theme=nightowl" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Ayon%20Das&fontSize=70&animation=fadeIn&desc=ECE%20Undergraduate%20%7C%20KUET&descAlignY=72&descSize=22&fontColor=FFFFFF&stroke=000000&strokeWidth=1&theme=nightowl" alt="Banner"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Ayon Das</h1>
